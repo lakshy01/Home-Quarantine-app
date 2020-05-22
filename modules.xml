@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuarantineClone.iml" filepath="$PROJECT_DIR$/QuarantineClone.iml" group="QuarantineClone" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="QuarantineClone/app" />
+    </modules>
+  </component>
+</project>
